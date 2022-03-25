@@ -1,4 +1,4 @@
-## 👋 Haere mai!
+## 👋 [Haere mai!](https://www.youtube.com/watch?v=ekhlyCEUIqw)
 
 I'm a technology-agnostic software developer. My interests include but are not limited to software development, mathematics, electronics, physics simulations, computer vision, digital twins, and spatial data.
 
