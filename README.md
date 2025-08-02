@@ -1,6 +1,6 @@
 ## 👋 [Haere mai!](https://www.youtube.com/watch?v=ekhlyCEUIqw)
 
-I'm a technology-agnostic software developer. My interests include but are not limited to software development, mathematics, electronics, physics simulations, computer vision, digital twins, and spatial data.
+I'm a technology-agnostic software developer. My interests include but are not limited to mathematics, computer vision, and spatial data.
 
 🏠 Check out my portfolio at [bailey.geek.nz](http://bailey.geek.nz)  
 📬 [sam@bailey.geek.nz](mailto:sam@bailey.geek.nz)  
